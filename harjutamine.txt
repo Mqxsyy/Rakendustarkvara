@@ -1,0 +1,1 @@
+GitHub on cloud storage ja meetod koodi kirjutajatel töötada koos läbi interneti.
