@@ -1,1 +1,2 @@
-GitHub on cloud storage ja meetod koodi kirjutajatel töötada koos läbi interneti.
+GitHub on cloud storage ja meetod koodi kirjutajatel töötada koos läbi interneti.  
+Mina saan GitHubi kasutada, et kooli töid esitada või saan panna enda Unity projekti GitHubi, et projekt oleks ka cloudis ning saaksin projekti koodi ligi kas tesites arvuties.
