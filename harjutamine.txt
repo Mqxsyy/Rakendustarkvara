@@ -1,1 +1,5 @@
-GitHub on cloud storage ja meetod koodi kirjutajatel töötada koos läbi interneti.
+GitHub on cloud storage ja meetod koodi kirjutajatel töötada koos läbi interneti.  
+Mina saan GitHubi kasutada, et kooli töid esitada või saan panna enda Unity projekti GitHubi, et projekt oleks ka cloudis ning saaksin projekti koodi ligi kas tesites arvuties.  
+  
+"Chris Wanstrath, now 33, co-founded San Francisco-based GitHub in 2008 along with fellow software developers Tom Preston-Werner, 38, and PJ Hyett, 35."
+"As of April 14, 2020, GitHub announced that all of the core GitHub features are now free for everyone"
